@@ -1,0 +1,69 @@
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    scroll-behavior: smooth;
+}
+
+/*  Navbar sticky - fijo */
+header {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+/* contenido main*/
+.main-content {
+    flex: 1;
+    padding: 1rem 0;
+    background-color: #f8f9fa;
+    margin-top: 70px; /*ajustar segun navbar*/
+}
+
+/* Footer básico */
+footer {
+    background-color: #004B51;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+/*  Scrollbar base para navegadores Webkit (Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+    width: 12px;
+    height: 10px;
+  }
+  
+  /*  Fondo del scroll */
+  ::-webkit-scrollbar-track {
+    background: #DAD6CB; /* Color de fondo */
+    border-radius: 10px;
+  }
+  
+  /*  Thumb (el "agarrador" del scroll) */
+  ::-webkit-scrollbar-thumb {
+    background: #004B51; /* Color principal */
+    border-radius: 10px;
+    border: 2px solid #DAD6CB; /* Espacio interno */
+  }
+  
+  /*  Hover sobre el thumb */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #01363a;
+  }
+  
+  /*  Scrollbar en elementos específicos */
+  .elemento-scrollable::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /*  Para Firefox */
+  body {
+    scrollbar-width: thin;               /* thin | auto | none */
+    scrollbar-color: #004B51 #DAD6CB;    /* thumb color | track color */
+  }
+  
