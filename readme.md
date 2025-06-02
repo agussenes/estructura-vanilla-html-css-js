@@ -16,19 +16,19 @@ Este es un sitio web modular, responsivo y optimizado para SEO, con múltiples v
 ## 📁 Estructura del proyecto
 
 PORTAFOLIO-WEB/  
-                ├── css/ 
-                │ └── esenciales.css 
-                ├── js/ 
-                │ └── includePartials.js 
-                ├── partials/ 
-                │ ├── header.html 
-                │ └── footer.html 
-                ├── img/ 
-                ├── php/ 
-                ├── index.html 
-                ├── sitemap.xml 
-                ├── robots.txt 
-                └── README.md
+├── css/ 
+│ └── esenciales.css 
+├── js/ 
+│ └── includePartials.js 
+├── partials/ 
+│ ├── header.html 
+│ └── footer.html 
+├── img/ 
+├── php/ 
+├── index.html 
+├── sitemap.xml 
+├── robots.txt 
+└── README.md
 
 
 ## ⚙️ Cómo usar
