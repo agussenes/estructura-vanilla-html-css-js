@@ -45,5 +45,5 @@ PORTAFOLIO-WEB/
 
 ## 🧑‍💻 Autor
 
-- [Senestrari Dev - Agustin Ezequiel Senestrari] - [senestraridev.com]([(https://senestraridev.com/]))
+- Senestrari Dev - Agustin Ezequiel Senestrari - [senestraridev.com]([https://senestraridev.com/])
 
