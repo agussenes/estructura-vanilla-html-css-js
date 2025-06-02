@@ -15,7 +15,7 @@ Este es un sitio web modular, responsivo y optimizado para SEO, con múltiples v
 
 ## 📁 Estructura del proyecto
 
-PORTAFOLIO-WEB/ 
+PORTAFOLIO-WEB/  
                 ├── css/ 
                 │ └── esenciales.css 
                 ├── js/ 
