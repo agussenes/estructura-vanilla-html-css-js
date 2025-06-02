@@ -45,5 +45,5 @@ PORTAFOLIO-WEB/
 
 ## 🧑‍💻 Autor
 
-- [Tu Nombre] - [tu-web.com](https://tu-web.com)
+- [Senestrari Dev - Agustin Ezequiel Senestrari] - [senestraridev.com]([https://tu-web.com](https://senestraridev.com/))
 
